@@ -24,6 +24,12 @@ function App() {
             About This Starter
           </a>
           <a
+            href="/dashboard"
+            className="rounded-full border border-[rgba(23,58,64,0.2)] bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground no-underline transition hover:-translate-y-0.5"
+          >
+            Go to Dashboard
+          </a>
+          <a
             href="https://tanstack.com/router"
             target="_blank"
             rel="noopener noreferrer"
